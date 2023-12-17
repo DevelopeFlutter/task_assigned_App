@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821916646818",
+    "project_id": "taskassigner-bfe14",
+    "storage_bucket": "taskassigner-bfe14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821916646818:android:bab83e8753002a39e806fb",
+        "android_client_info": {
+          "package_name": "com.example.task_assigned_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuc2qhFYRkkn_q9j8CeBVxoUmGD7rujIU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
